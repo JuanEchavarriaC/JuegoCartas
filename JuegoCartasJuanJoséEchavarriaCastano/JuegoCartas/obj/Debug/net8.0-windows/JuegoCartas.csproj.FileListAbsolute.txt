@@ -1,0 +1,69 @@
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.exe
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.deps.json
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.runtimeconfig.json
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.dll
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.pdb
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.Properties.Resources.resources
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.csproj.GenerateResource.cache
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.AssemblyInfoInputs.cache
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.AssemblyInfo.cs
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.csproj.CoreCompileInputs.cache
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.dll
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\refint\JuegoCartas.dll
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.pdb
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.genruntimeconfig.cache
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\ref\JuegoCartas.dll
+C:\Users\VTC\Downloads\Borrar\Cursos\IU Pascual Bravo\Estructura de Datos\Curso 2024-02\Ejercicios\JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.FrmJuego.resources
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.exe
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.deps.json
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.runtimeconfig.json
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.dll
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.pdb
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.FrmJuego.resources
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.Properties.Resources.resources
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.csproj.GenerateResource.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.AssemblyInfoInputs.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.AssemblyInfo.cs
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.csproj.CoreCompileInputs.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.sourcelink.json
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.dll
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\refint\JuegoCartas.dll
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.pdb
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.genruntimeconfig.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\IUPB_ED_JuegoCartas\JuegoCartas\obj\Debug\net8.0-windows\ref\JuegoCartas.dll
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.exe
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.deps.json
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.runtimeconfig.json
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.dll
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.pdb
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.FrmJuego.resources
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.Properties.Resources.resources
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.csproj.GenerateResource.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.AssemblyInfoInputs.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.AssemblyInfo.cs
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.csproj.CoreCompileInputs.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.dll
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\refint\JuegoCartas.dll
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.pdb
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.genruntimeconfig.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\Funcional\JuegoCartas\obj\Debug\net8.0-windows\ref\JuegoCartas.dll
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.exe
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.deps.json
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.runtimeconfig.json
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.dll
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\bin\Debug\net8.0-windows\JuegoCartas.pdb
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.FrmJuego.resources
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.Properties.Resources.resources
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.csproj.GenerateResource.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.AssemblyInfoInputs.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.AssemblyInfo.cs
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.csproj.CoreCompileInputs.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.dll
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\refint\JuegoCartas.dll
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.pdb
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\JuegoCartas.genruntimeconfig.cache
+C:\Users\juanj\OneDrive\Escritorio\UNIVERSIDAD\2024-2\Estructuras de datos\Juego cartas\JuegoCartasJuanJoséEchavarriaCastano\JuegoCartas\obj\Debug\net8.0-windows\ref\JuegoCartas.dll
